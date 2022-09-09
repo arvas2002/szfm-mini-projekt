@@ -12,3 +12,10 @@ Vágyálom rendszer leírása
 =========================
 
 A projekt célja, hogy egy izgalmas, látványos és tömör módon híreket megjelenítóen létrehozzon egy hírportál elemet, amelyet akár több másik projektbe is be lehet ágyazni, illetve folyamatosan frissíthető legyen backendről egy admin felhasználó által.
+
+[//]: # (Követelményspecifikáció elkészítése - Igényelt üzleti folyamatok modellje)
+
+Igényelt üzleti folyamatok modellje
+=========================
+
+Weben keresztül bárki számára legyenek megtekinthetőek a hírek. Legyen egy admin felület, ahol az illetékes saját maga tud híreket létrehozni, módosítani és törölni is. Lehessen létrehozni több olyan felhasználót is, aki szerkeszteni tudja a híreket.
