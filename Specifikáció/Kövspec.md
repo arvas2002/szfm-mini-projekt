@@ -26,3 +26,11 @@ Rendszerre vonatkozó szabályok
 =========================
 
 A web felület szabványos eszközökkel készüljön, html/css/javascript. A felhasználókat azonosító web oldalak esetében a GDPR-t be kell tartani. Csak bejelentkezett felhasználó tudjon adatokat módosítani.
+
+[//]: # (Követelményspecifikáció elkészítése - Fogalomszótár)
+
+Fogalomszótár
+=========================
+
+- **GDPR**: A GDPR a General Data Protection Regulation kezdőbetűiből képzett mozaikszó, magyarul általános adatvédelmi rendelet.
+- **Hír**: Olyan információs egység, mely rendelkezik egy címmel, egy rövid leírással, egy létrehozási dátummal és egy a témához kapcsolódó képpel.
