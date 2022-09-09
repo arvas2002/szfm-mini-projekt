@@ -19,3 +19,10 @@ Igényelt üzleti folyamatok modellje
 =========================
 
 Weben keresztül bárki számára legyenek megtekinthetőek a hírek. Legyen egy admin felület, ahol az illetékes saját maga tud híreket létrehozni, módosítani és törölni is. Lehessen létrehozni több olyan felhasználót is, aki szerkeszteni tudja a híreket.
+
+[//]: # (Követelményspecifikáció elkészítése - Rendszerre vonatkozó szabályok)
+
+Rendszerre vonatkozó szabályok
+=========================
+
+A web felület szabványos eszközökkel készüljön, html/css/javascript. A felhasználókat azonosító web oldalak esetében a GDPR-t be kell tartani. Csak bejelentkezett felhasználó tudjon adatokat módosítani.
